@@ -33,6 +33,10 @@ C:\Users\YYB\Documents\GitHub\Test-git
 [GitHub 서버에서 pository list 보기 및 이동]
 오른쪽 상단의 고양이 모양을 클릭하면 됨.
 
+[GitHub 서버에서 파일의 history 보기]
+1) history를 보고자하는 파일을 클릭
+2) history를 볼 수 있는 메뉴 버튼이 display 됨
+3) History 버튼 클릭하면, history가 나옴.
 
 [GitHub에서 잘못된 파일을 삭제하는 법]
 1) GitHub server website 오픈 (github.com)
