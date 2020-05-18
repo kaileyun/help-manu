@@ -10,6 +10,11 @@ C:\Users\YYB\Documents\GitHub\Test-git
 (문서 아래 디렉토리에 각 응용프로그램별 사용자 파이들이 저장되어 있음)
 
 ************************************************************************
+[자기 계정안에 있는 Repository list 보기와 이동하는 방법]
+1) GitHub desktop 프로그램 수행
+2) Pull-down 메뉴바에서 view 버튼 클릭하여 pository list 선택
+    View 메뉴를 이용하여 Repositroy를 간단하게 이동할 수 있음.
+
 [로컬 PC에서 파일 수정 후, 업로드 방법]
 1) GitHub desktop 프로그램 수행
 2) GitHub 서버에 있는 특정 repository를 clone 한다.
@@ -18,15 +23,16 @@ C:\Users\YYB\Documents\GitHub\Test-git
 4) 파일을 commit 함: 업로드할 수 있도록 history를 작성한 다음 "commit to master"라는 버튼을 누름.
 5) 업로드 단계: push 버튼을 누루거나, fetch origin을 누름.  GitHub로 업로드 완료됨.
 
-[Repository list 보기와 이동하는 방법]
-Pull-down 메뉴바에서 view 버튼 클릭하여 pository list 선택
-View 메뉴를 이용하여 Repositroy를 간단하게 이동할 수 있음.
+
 
 
 
 ************************************************************************
 <<< 이하 항목들은 GitHub 서버에서 수행됨 >>>>
 ************************************************************************
+[GitHub 서버에서 pository list 보기 및 이동]
+오른쪽 상단의 고양이 모양을 클릭하면 됨.
+
 
 [GitHub에서 잘못된 파일을 삭제하는 법]
 1) GitHub server website 오픈 (github.com)
