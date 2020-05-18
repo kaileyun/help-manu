@@ -16,11 +16,20 @@ C:\Users\YYB\Documents\GitHub\Test-git
 4) 파일을 commit 함: 업로드할 수 있도록 history를 작성한 다음 "commit to master"라는 버튼을 누름.
 5) 업로드 단계: push 버튼을 누루거나, fetch origin을 누름.  GitHub로 업로드 완료됨.
 
+************************************************************************
 [GitHub에서 잘못된 파일을 삭제하는 법]
 1) GitHub server website 오픈 (github.com)
 2) 지우고자하는 파일명 선택. 휴지통박스가 메뉴에 나타남. 
 3) 휴지통박스 클릭하면 파일이 삭제됨. commit 버튼을 누름. 
 
+************************************************************************
+[GitHub에서 repository 삭제하는 법]
+1) GitHub server website 오픈 (github.com)
+2) 지우고자하는 repository명 선택하고 상단의 settings 버튼 클릭 
+3) Danger zone으로 이동.  "Delete this repository" 버튼 클릭 후,
+삭제하고자 하는 repository 확인 후에 하단의 "I understand the conse .."을 누름.
+
+************************************************************************
 [GitHub에서 계정 삭제방법]
 1) Settings를 클릭한다.
 2) Account settings를 클릭한뒤 하단에 있는 Delete your account를 클릭한다
