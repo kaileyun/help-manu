@@ -18,10 +18,15 @@ C:\Users\YYB\Documents\GitHub\Test-git
 4) 파일을 commit 함: 업로드할 수 있도록 history를 작성한 다음 "commit to master"라는 버튼을 누름.
 5) 업로드 단계: push 버튼을 누루거나, fetch origin을 누름.  GitHub로 업로드 완료됨.
 
+[Repository list 보기와 이동하는 방법]
+Pull-down 메뉴바에서 view 버튼 클릭하여 pository list 선택
+View 메뉴를 이용하여 Repositroy를 간단하게 이동할 수 있음.
+
+
 
 
 ************************************************************************
-<<< 이하 항목들은 GitHub 서버에서 수행함 >>>>
+<<< 이하 항목들은 GitHub 서버에서 수행됨 >>>>
 ************************************************************************
 
 [GitHub에서 잘못된 파일을 삭제하는 법]
