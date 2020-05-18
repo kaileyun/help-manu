@@ -1,0 +1,29 @@
+https://boheeee.tistory.com/27
+
+문서 디렉토리 아래에 각 응용 프로그램별로 사용되는 사용자 파일이 위치함. 
+여기에는 GitHub, FGsoft 등의 응용 프로그램들이 사용하는 사용자 파일이 위치함.
+따라서, GitHub 아래에 있는 프로젝트 아래의 사용자 문서들이 업데이트하여 
+GitHub의 서버에 업로드 할 수 있다.
+따라서, GitHub 사용이 필요한 문서는 다음 디렉토리에 프로젝트를 생성하여 문서를 위치함.
+C:\Users\YYB\Documents\GitHub\Test-git
+
+************************************************************************
+[파일 수정 후, 업로드 방법]
+1) GitHub desktop 프로그램 수행
+2) GitHub 서버에 있는 특정 repository를 clone 한다.
+3) 로컬 PC에서 디렉토리 이동하여 파일을 수정하면, GitHub desktop 화면 상의 changes에 표시가 됨.
+(디렉토리 위치는 위 참조)
+4) 파일을 commit 함: 업로드할 수 있도록 history를 작성한 다음 "commit to master"라는 버튼을 누름.
+5) 업로드 단계: push 버튼을 누루거나, fetch origin을 누름.  GitHub로 업로드 완료됨.
+
+[GitHub에서 잘못된 파일을 삭제하는 법]
+1) GitHub server website 오픈 (github.com)
+2) 지우고자하는 파일명 선택. 휴지통박스가 메뉴에 나타남. 
+3) 휴지통박스 클릭하면 파일이 삭제됨. commit 버튼을 누름. 
+
+[GitHub에서 계정 삭제방법]
+1) Settings를 클릭한다.
+2) Account settings를 클릭한뒤 하단에 있는 Delete your account를 클릭한다
+3) 이메일 주소와 하단의 밑줄친 부분을 입력하여 삭제한다. (아래 참조)
+https://m.blog.naver.com/PostView.nhn?blogId=yell1229&logNo=220655826961&proxyReferer=https:%2F%2Fwww.google.com%2F
+  
