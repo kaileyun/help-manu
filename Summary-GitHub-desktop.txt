@@ -1,4 +1,16 @@
-https://boheeee.tistory.com/27
+참고 사이트: https://boheeee.tistory.com/27
+
+1. 정의
+GitHub desktop은 terminal 창에서 git 명령어로 수행해 오던 
+방식을 GUI 방식으로 변경하여 사용자의 편의성을 제공한 프로그램임.
+
+2. 주요 내용 요약
+- GitHub는 로컬 컴퓨터에 있는 저장소(Repository)와 서버 저장소(GitHub, Repository)의 파일 동기화 목적
+- 로컬 PC의 Repository는 GitHub desktop 프로그램이 관리하며, 사용자 파일은
+   "C:\Users\YYB\Documents\GitHub\" 아래에 위치함 
+- GitHub의 서버 Repository는  GitHub.com website에서 관리(사용자 계정에서)
+- 수정 또는 신규 작성된 사용자 파일을 업로드하고자 하면, 로컬 PC의 repoistory로 이동시킴
+- GitHub 사용자 계정에는 여러 개의 Repository를 가질 수 있음 (로컬 PC도 동일)
 
 
 문서 디렉토리 아래에 각 응용 프로그램별로 사용되는 사용자 파일이 위치함. 
@@ -9,6 +21,8 @@ GitHub의 서버에 업로드 할 수 있다.
 C:\Users\YYB\Documents\GitHub\Test-git
 (문서 아래 디렉토리에 각 응용프로그램별 사용자 파이들이 저장되어 있음)
 
+************************************************************************
+<< GitHub desktop에서 수행되는 주요 기능 >>
 ************************************************************************
 [자기 계정안에 있는 Repository list 보기와 이동하는 방법]
 1) GitHub desktop 프로그램 수행
@@ -23,20 +37,13 @@ C:\Users\YYB\Documents\GitHub\Test-git
 4) 파일을 commit 함: 업로드할 수 있도록 history를 작성한 다음 "commit to master"라는 버튼을 누름.
 5) 업로드 단계: push 버튼을 누루거나, fetch origin을 누름.  GitHub로 업로드 완료됨.
 
-
 [branch 사용하는 방법]
 Branch 는 여러 사람이 동시에 작업하는 기능을 제공함. 예로써, 특정 기능 부분의 코드를 사용자 A가 작성하고,
 이후에 통합을 하는 경우 적합함. 이때는 A는 자신의 PC에 있는 git에서 branch를 만들어서 코드를 작성함.
 이후, 코드 작성이 완료되어 원본 코드와 통합하고자 하는 경우에는 merge 명령어를 사용하여 통함시킴. 
-따라서, gitf를 생성하면, 처음에는 master 가 생성됩니다.
-
-https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html
-
-
-
 
 ************************************************************************
-<<< 이하 항목들은 GitHub 서버에서 수행됨 >>>>
+<<< GitHub server 에서 수행되는 기능 >>>>
 ************************************************************************
 [GitHub 서버에서 pository list 보기 및 이동]
 오른쪽 상단의 고양이 모양을 클릭하면 됨.
